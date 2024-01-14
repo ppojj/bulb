@@ -1,0 +1,25 @@
+#wow{
+ height: 300px;
+ width: 300px;
+background-color: #0d8082;
+ border-radius:50%; 
+ border:solid 2px;
+}
+
+body{
+ background-color: rgb(150, 240, 240);
+ 
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
+
+#p{
+ height: 30px;
+ width: 300px;
+ background-color:rgb(56, 36, 169);
+ border-radius:50px;
+ margin: 10px;
+ font-size: medium;
+}
